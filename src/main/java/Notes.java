@@ -3,7 +3,7 @@ class Notes {
 
 		//Functions vs Methods
 
-		//Functions are a set of instructions
+		//Functions are a set of ins5tructions
 		//Methods are also a set of instructions - associated with an object
 
 		//Math Library - Functions and Constants - native to java, no import
